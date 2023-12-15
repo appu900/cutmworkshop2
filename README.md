@@ -1,1 +1,1 @@
-# cutmworkshop2
+# cutm-workshop
